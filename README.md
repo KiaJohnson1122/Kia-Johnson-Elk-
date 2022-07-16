@@ -38,7 +38,7 @@ Load balancing ensures that the application will be highly secure, in addition t
 What aspect of security do load balancers protect?
 Load balances protect against DDos attacks. It does this by shifting attack traffic to the cloud. 
 What is the advantage of a jump box?
-- Ajumpbox is good becasue you can manage devices in seperate security zones. This allows logging and monitoring on a single box. 
+- A jumpbox is good becasue you can manage devices in seperate security zones. This allows logging and monitoring on a single box. 
 
 Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the date and system logs.
 
@@ -114,7 +114,7 @@ This ELK server is configured to monitor the following machines:
  
  Web-2: 10.1.0.6
  
- ELK-VM: 10.3.4
+ ELK-VM: 10.3.0.4
  
  
  
