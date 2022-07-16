@@ -4,6 +4,9 @@ Automated Elk Stack Deployment
 The files in repository were used to configure the network below. 
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above.
+
+
+
 Docker
 
 Filebeat
