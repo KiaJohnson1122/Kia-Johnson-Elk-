@@ -1,6 +1,6 @@
 Automated Elk Stack Deployment 
 
-https://drive.google.com/drive/folders/1ZUcrqlkXXhs_jyuKRq69t6A0l1MsoF_S?usp=sharing
+
 
 
 The files in repository were used to configure the network below. 
